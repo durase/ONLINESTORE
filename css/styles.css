@@ -5,18 +5,43 @@
 .ope{
     background-image: url(../img/phoneBG.jpg);
     background-size: cover;
-    height: 700px;
+    height: 1000px;
 }
 .korede{
-    background-color: chartreuse;
+    background-color: black;
+    height: 50px;
+    color: aqua;
+    font-size: 2.0vmax;
+}
+li{display: inline-flex;
+    justify-content: right;
+    margin-left: 4vmax;
+    text-align: right;
+    color: aqua;
+}
+ a{
+    display: inline-flex;
+    text-decoration: none;
+    color: aliceblue;
+}
+ul{
+    display: inline-flex;
+    margin-left: 50%;
+}
+.ope{
+    text-align: center;
+}
+.sade {
+    width: 38%;
+    height: 60%;
+    
     
 }
-li{
-    display: inline-flex;
-    justify-content: right;
-    margin-left: 80%;
-    text-align: right;
+.sade {
+    background-image: url(../img/13.png);
+    background-position: right;
+    background-size: 30%;
+    background-size: cover;
 }
-.ade ul li a{
-    display: inline-flex;
-}
+
+
