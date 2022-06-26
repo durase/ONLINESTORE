@@ -43,5 +43,15 @@ ul{
     background-size: 30%;
     background-size: cover;
 }
-
-
+.obi {
+    background-image: url(../img/1.png);
+    background-position: left;
+    background-size: 30%;
+    background-size: cover;
+    margin-left: 50%;
+    m
+}
+.obi {
+    width: 38%;
+    height: 60%;
+}
