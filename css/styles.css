@@ -5,4 +5,18 @@
 .ope{
     background-image: url(../img/phoneBG.jpg);
     background-size: cover;
+    height: 700px;
+}
+.korede{
+    background-color: chartreuse;
+    
+}
+li{
+    display: inline-flex;
+    justify-content: right;
+    margin-left: 80%;
+    text-align: right;
+}
+.ade ul li a{
+    display: inline-flex;
 }
