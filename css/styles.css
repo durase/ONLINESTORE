@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ope{
+    background-image: url(../img/phoneBG.jpg);
+    background-size: cover;
+}
