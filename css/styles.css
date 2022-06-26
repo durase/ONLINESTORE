@@ -3,7 +3,7 @@
     padding: 0;
 }
 .ope{
-    background-image: url(../img/phoneBG.jpg);
+    background-color: cornsilk;
     background-size: cover;
     height: 1000px;
 }
@@ -34,6 +34,7 @@ ul{
 .sade {
     width: 38%;
     height: 60%;
+    font-size: 3vmax;
     
     
 }
@@ -46,12 +47,14 @@ ul{
 .obi {
     background-image: url(../img/1.png);
     background-position: left;
-    background-size: 30%;
+    background-size: 40%;
     background-size: cover;
-    margin-left: 50%;
-    m
+    margin-left: 60vmax;
+    margin-bottom: 100%;
+    display: inline-flex;
 }
 .obi {
-    width: 38%;
-    height: 60%;
+    width: 100%;
+    height: 80%;
+    font-size: 3vmax;
 }
